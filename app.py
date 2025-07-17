@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import re
-from bs4 import BeautifulSoup
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
