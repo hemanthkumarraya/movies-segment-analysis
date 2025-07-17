@@ -1,7 +1,15 @@
 import streamlit as st
+import joblib
 import pandas as pd
 import numpy as np
 import re
+from bs4 import BeautifulSoup
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+import os
+import time
+from urllib.error import URLError
 
 # --- Configuration ---
 MODEL_DIR = 'models'
