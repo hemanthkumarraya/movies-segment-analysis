@@ -2,12 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-import os
-import time
-from urllib.error import URLError
 
 # --- Configuration ---
 MODEL_DIR = 'models'
