@@ -1,0 +1,21 @@
+Review,Predicted Sentiment,Confidence (%)
+"This movie was an absolute masterpiece! The acting, the plot, everything was perfect.",Positive,92.53
+"A truly fantastic experience from start to finish, highly recommended for everyone.",Positive,99.04
+What a waste of my precious time. The plot was non-existent and the acting was abysmal.,Negative,98.88
+"I've never been so bored in a cinema. Terrible script, predictable ending.",Negative,98.99
+"It was okay. Nothing groundbreaking, but not terrible either. Just average.",Negative,99.48
+"The cinematography was stunning, but the story dragged on a bit too much.",Positive,70.55
+Absolutely loved every minute! Best film of the year by far.,Positive,87.57
+Completely disappointed. Overhyped and underdelivered. Don't bother.,Negative,98.71
+"The special effects were impressive, but the dialogues felt really forced.",Negative,74.85
+"A solid effort, though it didn't quite live up to my high expectations. Still worth a watch.",Positive,79.68
+"This is a must-see. Emotional, powerful, and thought-provoking.",Positive,94.48
+"So boring, I almost fell asleep. Skip it.",Negative,98.38
+Surprisingly good! I went in with low expectations and was pleasantly surprised.,Positive,94.99
+"The sound design was incredible, truly immersive.",Positive,91.69
+An uninspired sequel that completely missed the magic of the original.,Negative,92.32
+"It had its moments, but ultimately failed to captivate me.",Negative,80.07
+Brilliant direction and a stellar cast made this an unforgettable film.,Positive,91.41
+Worst film I've seen all year. Avoid at all costs.,Negative,97.31
+"Quite an interesting concept, but the execution was a bit messy.",Negative,63.51
+"Highly anticipated, but ultimately a letdown. Not terrible, but not great either.",Negative,69.10
